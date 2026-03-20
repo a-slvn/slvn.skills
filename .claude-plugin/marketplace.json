@@ -13,6 +13,14 @@
       "version": "1.0.0",
       "source": "./plugins/ux-product-designer",
       "category": "design"
+    },
+    {
+      "name": "sales-deck-builder",
+      "source": "./plugins/sales-deck-builder",
+      "description": "Sales-focused HTML slider presentations using Tailgrids — persuasive copywriting, speaker notes, Vercel deploy.",
+      "category": "Design",
+      "version": "1.0.0",
+      "strict": true
     }
   ]
 }
