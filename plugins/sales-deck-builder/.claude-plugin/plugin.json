@@ -1,0 +1,12 @@
+{
+  "name": "sales-deck-builder",
+  "version": "1.0.0",
+  "description": "Build persuasive HTML slider presentations using Tailgrids components. Sales-focused copywriting, speaker notes, and Vercel deployment.",
+  "author": {
+    "name": "slvn"
+  },
+  "category": "Design",
+  "skills": [
+    "./skills/sales-deck-builder"
+  ]
+}
