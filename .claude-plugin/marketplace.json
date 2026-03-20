@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "slvn-skills",
+  "version": "1.0.0",
+  "description": "SLVN skills collection for Claude Code",
+  "owner": {
+    "name": "SLVN"
+  },
+  "plugins": [
+    {
+      "name": "ux-product-designer",
+      "description": "Senior UX/Product designer skill. Architects user flows, screen structures, and interaction logic for mobile, tablet, and desktop. Every design decision backed by named heuristics (Nielsen, Fitts, Hick, WCAG). Includes flow mapping, UX audits, text wireframes, and self-validation.",
+      "version": "1.0.0",
+      "source": "./plugins/ux-product-designer",
+      "category": "design"
+    }
+  ]
+}
